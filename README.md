@@ -3,7 +3,8 @@ Activities and theory from Advanced-CSS-and-Sass
 
 ## You can see the webpages here:
 - [Natours - Project 1](https://gabyross.github.io/Advanced-CSS-and-Sass/Natours/)
-- [Trillo - Project 2](https://gabyross.github.io/Advanced-CSS-and-Sass/Trillo/)
+- [Natours - Project 2](https://gabyross.github.io/Advanced-CSS-and-Sass/Nexter/)
+- [Trillo - Project 3](https://gabyross.github.io/Advanced-CSS-and-Sass/Trillo/)
 
 ## Course Contents:
 - Tons of modern CSS techniques to create stunning designs and effects
