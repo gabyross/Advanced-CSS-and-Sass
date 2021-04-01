@@ -3,7 +3,7 @@ Activities and theory from Advanced-CSS-and-Sass
 
 ## You can see the webpages here:
 - [Natours - Project 1](https://gabyross.github.io/Advanced-CSS-and-Sass/Natours/)
-- [Natours - Project 2](https://gabyross.github.io/Advanced-CSS-and-Sass/Nexter/)
+- [Nexter - Project 2](https://gabyross.github.io/Advanced-CSS-and-Sass/Nexter/)
 - [Trillo - Project 3](https://gabyross.github.io/Advanced-CSS-and-Sass/Trillo/)
 
 ## Course Contents:
